@@ -2,7 +2,7 @@
 
 # Awesome-State-Management
 
-# Top State Management Tools Ecosystem
+## Top State Management Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Predictable State Transitions, Atomic Reactivity & Framework-Native Integration*  
