@@ -96,3 +96,12 @@ Star the repo if you find it useful!
 
 **Made for frontend developers, React engineers, Vue and Angular teams, and developers building predictable application state architectures.**  
 Let's make state management more open, performant, and framework-native.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-State-Management&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-State-Management_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-State-Management_growth.svg">
+  </picture>
+</a>
